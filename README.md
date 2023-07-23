@@ -14,7 +14,7 @@ And it's assignment of Vue.js of OSTAD.
 
 
 ## documentation of assignment
-![wellcome project](https://raw.githubusercontent.com/ahmmedsabbirbd/vue.js-ostad-assignment/master/assignment-4/src/assets/welcome.png)
+![Screenshot_3](https://github.com/AmirHam-Za/vue-assignment-4/assets/125890933/084121b0-1af7-4416-b2aa-1e264522cb98)
 
 
 
@@ -22,8 +22,8 @@ And it's assignment of Vue.js of OSTAD.
 
 If you have any questions, feedback, or suggestions, feel free to contact us using the following methods:
 
-- Email: ahmmedsabbirbd@gmail.com
-- Linkdin: [ahmmedsabbirbd](https://www.linkedin.com/in/ahmmedsabbirbd/)
-- Website: [Portfolio](https://sabbir-me.netlify.app)
+- Email: hamza.com.bd@gmail.com
+- Linkdin: [amirhamza](https://www.linkedin.com/in/AmirHam-Za/)
+- Website: [Portfolio](https://hamjabd.com)
 
 We appreciate your interest in our project and look forward to hearing from you!
